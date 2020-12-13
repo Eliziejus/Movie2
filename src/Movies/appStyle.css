@@ -1,0 +1,24 @@
+.movie{
+   width: 90vw;
+  max-width: 1170px;
+  display: flex;
+  margin: 5rem auto;
+
+}
+img{
+    width: 200px;
+    
+}
+.table{
+     background: #fff;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
+section{
+    display: flex;
+    align-items: flex-start;
+
+}
+.div{
+    display:f
+}
